@@ -33,5 +33,5 @@ Run Your JMeter Test: Execute your performance test in JMeter and generate a JTL
 Run the AutoFilter Script: Execute the Python script to process the JTL file and generate reports.
 Access Reports: View your generated reports in Excel, TXT, or PowerPoint format.
 
-# Contributing
+# Contributing ❤️
 We welcome contributions to enhance the functionality and usability of the JMeter-JTL-AutoFilter project. Feel free to open issues, suggest features, or submit pull requests.
