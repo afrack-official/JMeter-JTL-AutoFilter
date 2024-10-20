@@ -24,7 +24,7 @@ The JMeter-JTL-AutoFilter project is designed to streamline the analysis of perf
 # Installation
 
 To get started with JMeter-JTL-AutoFilter, clone the repository and install the necessary dependencies:
-> git clone https://github.com/yourusername/JMeter-JTL-AutoFilter.git
+> https://github.com/afrack-official/JMeter-JTL-AutoFilter.git
 > cd JMeter-JTL-AutoFilter
 > pip install -r requirements.txt
 
